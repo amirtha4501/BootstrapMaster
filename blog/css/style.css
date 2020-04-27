@@ -1,0 +1,25 @@
+.navbar, .navbar a{
+    color: white;
+}
+
+.nav li a:hover {
+    background-color: orange;
+}
+
+.navbar-custom {
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.navbar-header div {
+    font-size: 35px;
+}
+header {
+    height: 450px;
+    padding: 160px 50px;
+    color: white;
+}
+
+header h1 {
+    font-size: 50px;
+}
