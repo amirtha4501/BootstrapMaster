@@ -55,3 +55,15 @@ header h1 {
     border: 0;
     color: white;
 }
+
+#footer a {
+    color: blue;
+    padding: 40px;
+    font-size: 20px;
+} 
+
+.m-col {
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+}
